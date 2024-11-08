@@ -1,0 +1,17 @@
+/* Estilos adicionais */
+body {
+    padding: 20px;
+}
+
+h2 {
+    margin-bottom: 40px;
+}
+
+.mb-4 {
+    margin-bottom: 30px;
+}
+
+/* Mensagens de resposta */
+#mensagem-empresa, #mensagem-departamento, #mensagem-funcionario {
+    margin-top: 20px;
+}
